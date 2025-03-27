@@ -1,0 +1,11 @@
+C:\Users\HPE\Documents\TriangleCheckerProject\TriangleCheckerProject\TriangleChecker\bin\Debug\net9.0\TriangleChecker.deps.json
+C:\Users\HPE\Documents\TriangleCheckerProject\TriangleCheckerProject\TriangleChecker\bin\Debug\net9.0\TriangleChecker.dll
+C:\Users\HPE\Documents\TriangleCheckerProject\TriangleCheckerProject\TriangleChecker\bin\Debug\net9.0\TriangleChecker.pdb
+C:\Users\HPE\Documents\TriangleCheckerProject\TriangleCheckerProject\TriangleChecker\obj\Debug\net9.0\TriangleChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPE\Documents\TriangleCheckerProject\TriangleCheckerProject\TriangleChecker\obj\Debug\net9.0\TriangleChecker.AssemblyInfoInputs.cache
+C:\Users\HPE\Documents\TriangleCheckerProject\TriangleCheckerProject\TriangleChecker\obj\Debug\net9.0\TriangleChecker.AssemblyInfo.cs
+C:\Users\HPE\Documents\TriangleCheckerProject\TriangleCheckerProject\TriangleChecker\obj\Debug\net9.0\TriangleChecker.csproj.CoreCompileInputs.cache
+C:\Users\HPE\Documents\TriangleCheckerProject\TriangleCheckerProject\TriangleChecker\obj\Debug\net9.0\TriangleChecker.dll
+C:\Users\HPE\Documents\TriangleCheckerProject\TriangleCheckerProject\TriangleChecker\obj\Debug\net9.0\refint\TriangleChecker.dll
+C:\Users\HPE\Documents\TriangleCheckerProject\TriangleCheckerProject\TriangleChecker\obj\Debug\net9.0\TriangleChecker.pdb
+C:\Users\HPE\Documents\TriangleCheckerProject\TriangleCheckerProject\TriangleChecker\obj\Debug\net9.0\ref\TriangleChecker.dll
